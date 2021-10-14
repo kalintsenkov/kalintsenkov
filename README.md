@@ -16,9 +16,11 @@
 - 🥅 2021 Goals: Contributing to Open Source projects;
 - ⚡ Fun fact: I love to write code;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: kalin.tsenkov@gmail.com.
+- 📫 How to reach me: kalintsenkov3@gmail.com.
 
+<p>
 <!-- <summary>:zap: GitHub Stats</summary> -->
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kalintsenkov&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kalintsenkov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalintsenkov&langs_count=10&layout=compact&count_private=true&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalintsenkov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+</p>
