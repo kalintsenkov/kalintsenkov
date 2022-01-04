@@ -11,7 +11,7 @@
 ##
 
 - 🌱 I’m currently learning to live myself out the max
-- 🥅 2021 Goals: Contributing to Open Source projects
+- 🥅 2022 Goals: Contributing to Open Source projects
 - ⚡ Fun fact: I love coding and gaming
 - 💻 I love building cool stuffs
 - 💬 Ask me about anything! I am happy to help
