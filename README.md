@@ -1,4 +1,4 @@
-## Hi there, I'm Kalin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hi there, I'm Kalin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalintsenkov)
 [![Years Badge](https://badges.pufler.dev/years/kalintsenkov)](https://badges.pufler.dev)
