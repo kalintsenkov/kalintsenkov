@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/kalintsenkov)
 
 ```javascript
-const kalin = {
+const kalin: Developer = {
     pronouns: "He" | "Him",
     code: ["CSharp", "Javascript", "Typescript"],
     technologies: {
