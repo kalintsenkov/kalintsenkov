@@ -11,8 +11,8 @@ const kalin: Developer = {
     pronouns: "He" | "Him",
     code: ["CSharp", "Javascript", "Typescript"],
     technologies: {
-        backEnd: [".NET Core", "ASP.NET Core", "EF Core", "xunit"],
-        frontEnd: ["React", "Vue", "Angular", "Blazor"],
+        backEnd: [".NET Core", "ASP.NET Core", "EF Core", "xUnit"],
+        frontEnd: ["React", "Vue", "Angular", "Blazor", "Cypress"],
         devOps: ["Azure", "Docker 🐳"],
         databases: ["MSSQL", "SQLite", "PostgreSQL"]
     },
